@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! H Harinadh</h1>
+<h1 align="center">Hi!👋 I'm H Harinadh</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/hari_5297" target="blank"><img src="https://img.shields.io/twitter/follow/hari_5297?logo=twitter&style=for-the-badge" alt="hari_5297" /></a> </p>
