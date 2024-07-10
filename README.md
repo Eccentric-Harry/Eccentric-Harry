@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eccentric-Harry/server](https://github.com/Eccentric-Harry)
+- 👨‍💻 All of my projects are available at [https://github.com/Eccentric-Harry](https://github.com/Eccentric-Harry)
 
 - 📝 I regularly write articles on [https://medium.com/@harinathrao13](https://medium.com/@harinathrao13)
 
