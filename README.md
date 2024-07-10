@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hari_5297" target="blank"><img src="https://img.shields.io/twitter/follow/hari_5297?logo=twitter&style=for-the-badge" alt="hari_5297" /></a> </p>
 
-- 🔭 I’m currently working on [VideoTube](https://github.com/Eccentric-Harry/server)
+- 🔭 I’m currently working on [VideoTube](https://videotube-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **AWS**
 
