@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Eccentric-Harry"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Tech%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Eccentric-Harry"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Tech%20enthusiast;Web3%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
